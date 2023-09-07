@@ -1,0 +1,12 @@
+.sign{
+    margin:24px 0 24px 0;
+}
+#panel{
+    background-color: white;
+    border-radius: 3%;
+    padding: 50px;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    width: 376px;
+    margin-left: 39%;
+}
